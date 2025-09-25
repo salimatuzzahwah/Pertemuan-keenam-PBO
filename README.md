@@ -10,6 +10,7 @@ JFrame adalah salah satu class utama dalam Java Swing yang digunakan untuk membu
 -	JButton → tombol interaksi
 -	JTable → menampilkan data dalam bentuk table
 -	JPanel → wadah tata letak komponen
+-	JComboBox → menampilkan daftar pilihan
 Dengan kata lain, JFrame dapat dianalogikan sebagai kerangka jendela, sementara komponen Swing lainnya adalah isi dari jendela tersebut.
 
 # Dialog Modal
